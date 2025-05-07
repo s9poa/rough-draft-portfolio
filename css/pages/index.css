@@ -1,0 +1,7 @@
+.hero {
+    background-image: radial-gradient(hsla(0,0%,10%, .9), hsla(0,0%,10%, .925), hsla(0,0%,10%, .950), hsla(0,0%,10%, .975), hsla(0,0%,10%, 1), hsla(0,0%,10%, 1)), url("https://www.pixelstalk.net/wp-content/uploads/images6/5K-Wallpaper-HD-Free-download.jpg");
+    background-size: cover;
+    background-position: bottom;
+    
+    height: 90vh;
+}

@@ -4,7 +4,7 @@
     font-size: 16px;
     --box-shadow: rgba(0, 0, 0, .2) 0px 2px 8px 0px;
     --heading-font-family: "Poppins", sans-serif;
-    --body-bg: #fff;
+    --body-bg: hsl(0,0%,10%);
 }
 
 *::before, *::after {
